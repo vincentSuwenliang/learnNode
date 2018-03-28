@@ -1,0 +1,24 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "Javascript Code We Write(100% JS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentSuwenliang/learnNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentSuwenliang/learnNode/issues"
+  },
+  "homepage": "https://github.com/vincentSuwenliang/learnNode#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pm2": "^2.10.1",
+    "webworker-threads": "^0.7.13"
+  }
+}
