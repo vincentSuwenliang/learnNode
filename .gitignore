@@ -58,5 +58,5 @@ typings/
 .env
 
 # never upload keys to server
-keys.js
+dev.js
 

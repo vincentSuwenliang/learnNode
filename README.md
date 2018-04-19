@@ -109,3 +109,8 @@ Use another account or logout then login solved code redeemed problem
 
 npm run dev
 npm run start
+
+Dev Prod
+2 seperate keys
+prod -> Use env variable to set up
+dev -> config/dev.js(do not commit)
